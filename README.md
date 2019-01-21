@@ -1,4 +1,4 @@
-[合作伙伴](https://2836963671.github.io/合作伙伴.htm "合作伙伴")---[ winhpj简介](https://2836963671.github.io/简介.htm "winhpj简介")---[winhpj软件源](https://2836963671.github.io/winhpj软件源.htm "winhpj软件源")
+[合作伙伴](https://2836963671.github.io/合作伙伴.htm "合作伙伴")---[ winhpj简介](https://2836963671.github.io/简介.htm "winhpj简介")
 
 
 # winhpj的网站  欢迎来到此网站#
