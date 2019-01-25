@@ -2,3 +2,7 @@
 
 # winhpj的网站  欢迎来到此网站#
 这是我的github网站 [https://github.com/2836963671/winhpj](https://github.com/2836963671/winhpj "winhpj的github网页")
+
+----------
+# 公告 #
+1.最近发现winhpj软件0.1存在大量bug（相关人士提出），比如：代码错乱......
